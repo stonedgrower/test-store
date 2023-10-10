@@ -1,0 +1,48 @@
+[
+    {
+        "featuredID": "3ba2d5a7-13dd-41b9-bb35-4065e97f6015",
+        "featuredPhoto": "https://i.imgur.com/5KWS7c0.png",
+        "featuredTitle": "2a7fca9a-7523-40e3-93cf-7d165849b5ea",
+        "featuredType": "Product",
+        "featuredDescription": "From the sea floor, these natural quartz crystals are the best way to connect with the ocean!",
+        "featuredStore": "Msiku",
+		"featuredURL": "https://pastebin.com/raw/2YwzkJhE"
+    },
+    {
+        "featuredID": "6303dc8f-9f3c-43b6-8832-4f70e1e5e9a1",
+        "featuredPhoto": "https://imgur.com/sPgDEmf.png",
+        "featuredTitle": "3d7a0c8b-a51a-42e6-b89d-b5056e5d7b78",
+        "featuredType": "Product",
+        "featuredDescription": "Hello is the newest addition to CF Mall and is the hottest club in Moncton! Nothing but elegant service and refreshing drinks at Moncton's most exclusive nightlife spot!",
+        "featuredStore": "Glacial Gold",
+		"featuredURL": "https://pastebin.com/raw/2YwzkJhE"
+    },
+    {
+        "featuredID": "d41d8cd9-998f-4c63-afdd-42f1fbd55df9",
+        "featuredPhoto": "https://imgur.com/AWMKU4h.png",
+        "featuredTitle": "BB5B595E-BD58-4E23-B1F8-2C26750AEBBB",
+        "featuredType": "Product",
+        "featuredDescription": "Find out why local grown flowers are the only way to enjoy an eco-friendly bouquet.",
+        "featuredStore": "Cookies",
+		"featuredURL": "https://pastebin.com/raw/FUFzBwqD"
+    },
+    {
+        "featuredID": "e567bed7-a7a8-42ad-bc7e-096ac33b6f8d",
+        "featuredPhoto": "https://imgur.com/Vu8lTiG.png",
+        "featuredTitle": "C04C94CB-AE6B-4651-994A-3D8C86B32A37",
+        "featuredType": "Product",
+        "featuredDescription": "It's summer and nothing says summer fun like great deals on delicious candy!",
+        "featuredStore": "High Street",
+		"featuredURL": "https://pastebin.com/raw/L9kHiyZ9"
+    },
+    {
+        "featuredID": "f12831c4-d590-4e29-9c2a-c11c1b56b83b",
+        "featuredPhoto": "https://imgur.com/Vu8lTiG.png",
+        "featuredTitle": "b4f4e9e5-b34b-4694-87fc-c134c1a61fd9",
+        "featuredType": "Product",
+        "featuredDescription": "Our cheese is smelly and its undeniable. It's what makes us so Funky!",
+        "featuredStore": "Glacial Gold",
+		"featuredURL": "https://pastebin.com/raw/mG29fBz1"
+    }
+]
+
