@@ -1,0 +1,100 @@
+[
+    {
+        "storeName": "Chew Toys",
+        "storeListings": [
+            {
+                "listingID": "ABC123",
+                "listingCode": "Chew1",
+                "listingName": "Rubber Bone",
+                "listingPrice": 12.99,
+                "listingSize": "Medium",
+                "listingURL": "https://dogtoystore.com/product/rubber-bone/",
+                "storeName": "Chew Toys",
+                "listingPhoto": "https://i.imgur.com/Z4mz5Le_d.jpg",
+                "listingDescription": "A durable rubber bone for endless chewing fun...",
+                "pref1": "Material",
+                "pref2": 0.9,
+                "pref3": "Color",
+                "pref4": 1.0,
+                "pref5": "Brand",
+                "pref6": 4.8,
+                "sourceURL": "",
+                "subCat": "Rubber Chew",
+                "listingBrand": "PuppyChew",
+                "inStock": true
+            },
+            {
+                "listingID": "DEF456",
+                "listingCode": "Chew2",
+                "listingName": "Squeaky Ball",
+                "listingPrice": 8.99,
+                "listingSize": "Small",
+                "listingURL": "https://dogtoystore.com/product/squeaky-ball/",
+                "storeName": "Chew Toys",
+                "listingPhoto": "https://i.imgur.com/Z4mz5Le_d.jpg",
+                "listingDescription": "A fun squeaky ball that will keep your dog entertained...",
+                "pref1": "Material",
+                "pref2": 0.7,
+                "pref3": "Color",
+                "pref4": 2.0,
+                "pref5": "Brand",
+                "pref6": 4.1,
+                "sourceURL": "",
+                "subCat": "Squeaky Toy",
+                "listingBrand": "PlayPaw",
+                "inStock": true
+            }
+        ],
+        "storeID": "ChewToys",
+        "storeLogo": "https://i.imgur.com/Z4mz5Le_d.jpg"
+    },
+    {
+        "storeName": "Plush Toys",
+        "storeListings": [
+            {
+                "listingID": "GHI789",
+                "listingCode": "Plush1",
+                "listingName": "Stuffed Duck",
+                "listingPrice": 14.99,
+                "listingSize": "Large",
+                "listingURL": "https://dogtoystore.com/product/stuffed-duck/",
+                "storeName": "Plush Toys",
+                "listingPhoto": "https://i.imgur.com/Z4mz5Le_d.jpg",
+                "listingDescription": "A soft, cuddly duck for your dog to snuggle with...",
+                "pref1": "Material",
+                "pref2": 0.8,
+                "pref3": "Color",
+                "pref4": 1.5,
+                "pref5": "Brand",
+                "pref6": 3.9,
+                "sourceURL": "",
+                "subCat": "Stuffed Toy",
+                "listingBrand": "SnugglePup",
+                "inStock": false
+            },
+            {
+                "listingID": "JKL012",
+                "listingCode": "Plush2",
+                "listingName": "Fluffy Bear",
+                "listingPrice": 18.99,
+                "listingSize": "Medium",
+                "listingURL": "https://dogtoystore.com/product/fluffy-bear/",
+                "storeName": "Plush Toys",
+                "listingPhoto": "https://i.imgur.com/Z4mz5Le_d.jpg",
+                "listingDescription": "A fluffy bear for your dog to carry around and snuggle...",
+                "pref1": "Material",
+                "pref2": 0.6,
+                "pref3": "Color",
+                "pref4": 2.3,
+                "pref5": "Brand",
+                "pref6": 4.7,
+                "sourceURL": "",
+                "subCat": "Fluffy Toy",
+                "listingBrand": "CuddlePup",
+                "inStock": true
+            }
+        ],
+        "storeID": "PlushToys",
+        "storeLogo": "https://i.imgur.com/Z4mz5Le_d.jpg"
+    }
+]
